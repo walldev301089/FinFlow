@@ -1,0 +1,4 @@
+com\finflow\ConfuguracaoSeguranca.class
+com\finflow\FinFlowApplication.class
+com\finflow\App.class
+com\finflow\repository\UsuarioRepository.class
